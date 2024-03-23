@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![snake](https://raw.githubusercontent.com/仓库名/仓库名/output/github-contribution-grid-snake.svg)
+![snake](https://raw.githubusercontent.com/chumen-Lu/chumen-Lu/output/github-contribution-grid-snake.svg)
 
 <!--
 **chumen-Lu/chumen-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
