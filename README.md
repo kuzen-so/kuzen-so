@@ -1,5 +1,7 @@
 ### 👋 Hi there 
+
 <div align="center"><a href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1035653050"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今天也要加油哦;I'm+Kuzen+Welcome+!&center=true&size=27"> </a> </div>
+
 <br>
 
   <!-- profile logo 个人资料徽标 -->
@@ -19,25 +21,10 @@
 <p>&emsp;&emsp;Hi,I'm Kuzen。</p>
 <p>&emsp;&emsp;热爱编程、画画、读书、设计、旅行. </p>
 <p>&emsp;&emsp;学习设计的我对代码产生浓厚的兴趣,努力想成为一个全栈开发者.</p>
-<p>&emsp;&emsp;努力活在当下,别总想着和曾经的自己道歉.</p>
+<p>&emsp;&emsp;努力活在当下,别总想着和曾经的自己道歉. <strong>Try to live in the moment, and don't always think about apologizing to your former self </strong>strong></p>
 
 
 </td></tr>
 
 <tr><td>
 
-
-<!--
-**chumen-Lu/chumen-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
