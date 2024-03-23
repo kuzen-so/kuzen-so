@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 <div align="center"><a href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1035653050"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今天也要加油哦;I'm+Kuzen+Welcome+!&center=true&size=27"> </a> </div>
 <br>
 
@@ -13,6 +13,18 @@
 
 ![snake](https://raw.githubusercontent.com/chumen-Lu/chumen-Lu/output/github-contribution-grid-snake.svg)
 
+
+### 😯 About Me
+
+<p>&emsp;&emsp;Hi,I'm Kuzen。</p>
+<p>&emsp;&emsp;热爱编程、画画、读书、设计、旅行. </p>
+<p>&emsp;&emsp;学习设计的我对代码产生浓厚的兴趣,努力想成为一个全栈开发者.</p>
+<p>&emsp;&emsp;努力活在当下,别总想着和曾经的自己道歉.</p>
+
+
+</td></tr>
+
+<tr><td>
 
 
 <!--
