@@ -31,5 +31,5 @@
   <p>&emsp;&emsp;<strong>Try to live in the moment, and don't always think about apologizing to your former self </strong>  </p>
   </tr></td>
     
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
+  !(https://github-readme-stats.vercel.app/api/top-langs/?username=all-smile&layout=compact&theme=tokyonight)
 
