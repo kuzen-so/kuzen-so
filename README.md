@@ -2,7 +2,7 @@
 
 ![snake](https://raw.githubusercontent.com/chumen-Lu/chumen-Lu/output/github-contribution-grid-snake.svg)
 
-<div align="center"> <img src="https://metrics.lecoq.io/insights/chumen-Lu "> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/insights/chumen-Lu=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <!--
 **chumen-Lu/chumen-Lu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
