@@ -19,7 +19,10 @@
  
   
   ### 😯 About Me
+  
   <table>
+  
+  <tr><td>
     
   <p>&emsp;&emsp;Hi,I'm Kuzen。</p>
   <p>&emsp;&emsp;热爱编程、画画、读书、设计、旅行. </p>
@@ -27,7 +30,4 @@
   <p>&emsp;&emsp;努力活在当下,别总想着和曾经的自己道歉. <strong>Try to live in the moment, and don't always think about apologizing to your former self </strong> </p>
  
 
-</td></tr>
-
-<tr><td>
 
