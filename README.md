@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);今天也要加油哦!&center=true&size=27"> </a> </h1>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);今天也要加油哦!&center=true&size=27"> </a> </h1>
 
 ![snake](https://raw.githubusercontent.com/chumen-Lu/chumen-Lu/output/github-contribution-grid-snake.svg)
 
