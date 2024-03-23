@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center"><a href="https://mp.weixin.qq.com/cgi-bin/home?t=home/index&lang=zh_CN&token=1035653050"> <img src="https://readme-typing-svg.herokuapp.com/?lines=今天也要加油哦;I'm+Kuzen+Welcome+!&center=true&size=27"> </a> </div>
-<br><br>
+<br>
 
 ![snake](https://raw.githubusercontent.com/chumen-Lu/chumen-Lu/output/github-contribution-grid-snake.svg)
 
