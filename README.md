@@ -10,7 +10,7 @@
   <div>
     <a href="hhttps://twitter.com/kuzen_lu"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/channel/UCaS0lReDzbvnDycIbsT7DXA"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
-    <a href="https://img.shields.io/badge/v2ex-v?logoColor=black&color=black"><img src="https://www.v2ex.com/member/xiaokunda" /></a>&emsp;
+    <a href="ttps://www.v2ex.com/member/xiaokunda"><img src="hhttps://img.shields.io/badge/v2ex-v?logoColor=black&color=black" /></a>&emsp;
     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://blog.csdn.net/lklk123123?spm=1000.2115.3001.5343" /></a>&emsp;
     <a href="https://space.bilibili.com/320648841"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.zhihu.com/people/ni-kun-ou-ba-26"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
