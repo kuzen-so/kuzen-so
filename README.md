@@ -23,8 +23,10 @@
   ### 😯 About Me
    
   <table>
-  <img align="right" width="88" src="https://raw.githubusercontent.com/chumen-Lu/tuchuang/main/img/white_%E5%89%AF%E6%9C%AC.png" />
   <tr><td>
+  <!-- 图片 -->
+  <img align="right" width="88" src="https://raw.githubusercontent.com/chumen-Lu/tuchuang/main/img/white_%E5%89%AF%E6%9C%AC.png" />
+  <!-- 个人简介 -->
   <p>&emsp;&emsp;Hi,I'm Kuzen。</p>
   <p>&emsp;&emsp;热爱编程、画画、读书、设计、旅行. </p>
   <p>&emsp;&emsp;学习设计的我对代码产生浓厚的兴趣,努力想成为一个全栈开发者.</p>
