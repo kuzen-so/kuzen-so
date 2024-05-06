@@ -15,14 +15,15 @@
     <a href="https://https://www.youtube.com/@kuzen26"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://www.zhihu.com/people/ni-kun-ou-ba-26"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
   </div>
-
+  
+ <!-- 贪吃蛇代码 -->
 ![snake](https://raw.githubusercontent.com/chumen-Lu/chumen-Lu/output/github-contribution-grid-snake.svg)
  
   
   ### 😯 About Me
    
   <table>
-  
+  <img align="right" width="88" src="https://raw.githubusercontent.com/chumen-Lu/tuchuang/main/img/white_%E5%89%AF%E6%9C%AC.png" />
   <tr><td>
   <p>&emsp;&emsp;Hi,I'm Kuzen。</p>
   <p>&emsp;&emsp;热爱编程、画画、读书、设计、旅行. </p>
