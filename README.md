@@ -7,7 +7,7 @@
 </div>
   <!-- profile logo 个人资料徽标 -->
   <div>
-    <a href="hhttps://twitter.com/kuzen_lu"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://twitter.com/kuzenLu"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://www.youtube.com/channel/UCaS0lReDzbvnDycIbsT7DXA"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://www.v2ex.com/member/xiaokunda"><img src="https://img.shields.io/badge/v2ex-V%E7%AB%99-%7B%7D" /></a>&emsp;
     <a href="https://space.bilibili.com/320648841"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
