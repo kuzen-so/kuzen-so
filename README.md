@@ -16,10 +16,6 @@
     <a href="https://www.zhihu.com/people/ni-kun-ou-ba-26"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
   </div>
   
- <!-- 贪吃蛇代码 -->
-![snake](https://raw.githubusercontent.com/chumen-Lu/chumen-Lu/output/github-contribution-grid-snake.svg)
- 
-  
   ### 😯 About Me
    
   <table>
