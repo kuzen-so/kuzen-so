@@ -1,5 +1,7 @@
 <div align="center">
   <h3>😊 Hi there Hi, I'm Kuzen。</h3>
+
+ > 主要学习**前端**的开发人员
 </div>
 
 <div style="text-align: left;">
