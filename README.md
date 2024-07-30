@@ -1,11 +1,6 @@
 <div align="center">
 
-### 😊 Hi there Hi, I'm Kuzen。
-
-### 😯 About Me
-<table>
-<p style="text-indent: 0;"></p>
-
+  ### 😊 Hi there Hi, I'm Kuzen。
 <div>
 
 ### 📚 Learning:
